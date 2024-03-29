@@ -1,0 +1,37 @@
+body {
+    font-family: sans-serif;
+}
+header h1 {
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 70px;
+line-height: 70px;
+color: #000000;
+text-align: center;
+}
+body img {
+width: 150px;
+height: 100px;
+padding: 20px;
+border-radius: 30px;
+}
+li {
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-style: normal;
+font-size: 30px;
+color: #000000;
+}
+footer {
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 45px;
+color: #000000;
+background-color: #A2B0E0 ;
+}
+main img{
+width: 20px;
+height: 20px;
+}
+ul{
+    list-style: url("/uploads/2021/01/%D0%BD%D0%BE%D1%82%D0%B0_0_1610638133.svg");
+}
